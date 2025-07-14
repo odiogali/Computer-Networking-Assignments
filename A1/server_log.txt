@@ -1,0 +1,90 @@
+2025-02-14 21:43:07,495 - Server started and listening on localhost:6969
+2025-02-14 21:43:09,487 - Connection from ('127.0.0.1', 55102)
+2025-02-14 21:43:14,715 - Connection from ('127.0.0.1', 43948)
+2025-02-14 21:43:20,851 - Received request: simple|allama
+2025-02-14 21:43:20,852 - Sent response: Is palindrome: False
+
+2025-02-14 21:43:24,480 - Received request: complex|allama
+2025-02-14 21:43:24,482 - Sent response: Can form a palindrome: False
+Complexity score: 0 (number of swaps)
+
+2025-02-14 21:43:27,687 - Received request: complex|2
+2025-02-14 21:43:27,688 - Sent response: Can form a palindrome: True
+Complexity score: 0 (number of swaps)
+
+2025-02-14 21:43:39,680 - Received request: complex|datonk
+2025-02-14 21:43:39,682 - Sent response: Can form a palindrome: False
+Complexity score: 0 (number of swaps)
+
+2025-02-14 21:43:53,154 - Received request: complex|a man a plan a lamb molasses
+2025-02-14 21:43:53,156 - Sent response: Can form a palindrome: False
+Complexity score: 0 (number of swaps)
+
+2025-02-14 21:43:54,512 - Connection timed out on localhost:6969
+2025-02-14 21:43:54,513 - Closed connection with ('127.0.0.1', 55102)
+2025-02-14 21:43:56,390 - Closed connection with ('127.0.0.1', 43948)
+2025-02-14 21:44:10,944 - Beginning shutdown process for localhost:6969...
+2025-02-14 21:44:10,945 - Shutdown process for localhost:6969 has been completed cleanly.
+2025-02-14 21:49:59,024 - Server started and listening on localhost:6969
+2025-02-14 21:50:02,138 - Connection from ('127.0.0.1', 38042)
+2025-02-14 21:50:04,770 - Connection from ('127.0.0.1', 57908)
+2025-02-14 21:50:08,922 - Received request: simple|test
+2025-02-14 21:50:08,924 - Sent response: Is palindrome: False
+
+2025-02-14 21:50:14,038 - Received request: simple|abba
+2025-02-14 21:50:14,040 - Sent response: Is palindrome: True
+
+2025-02-14 21:50:26,748 - Received request: complex|a man a nama
+2025-02-14 21:50:26,750 - Sent response: Can form a palindrome: True
+Complexity score: 1 (number of swaps)
+
+2025-02-14 21:50:36,074 - Received request: complex|test
+2025-02-14 21:50:36,076 - Sent response: Can form a palindrome: False
+Complexity score: 0 (number of swaps)
+
+2025-02-14 21:50:43,720 - Received request: simple|testagain
+2025-02-14 21:50:43,721 - Sent response: Is palindrome: False
+
+2025-02-14 21:50:49,054 - Closed connection with ('127.0.0.1', 38042)
+2025-02-14 21:50:50,222 - Closed connection with ('127.0.0.1', 57908)
+2025-02-14 21:50:52,179 - Beginning shutdown process for localhost:6969...
+2025-02-14 21:50:52,179 - Shutdown process for localhost:6969 has been completed cleanly.
+2025-02-14 21:53:37,416 - Server started and listening on localhost:6969
+2025-02-14 21:53:39,773 - Connection from ('127.0.0.1', 35398)
+2025-02-14 21:53:42,218 - Connection from ('127.0.0.1', 35404)
+2025-02-14 21:53:48,486 - Received request: simple|mom
+2025-02-14 21:53:48,488 - Sent response: Is palindrome: True
+
+2025-02-14 21:53:57,045 - Received request: complex|note
+2025-02-14 21:53:57,047 - Sent response: Can form a palindrome: False
+Complexity score: 0 (number of swaps)
+
+2025-02-14 21:54:05,730 - Received request: complex|ivicc
+2025-02-14 21:54:05,732 - Sent response: Can form a palindrome: True
+Complexity score: 2 (number of swaps)
+
+2025-02-14 21:54:14,337 - Received request: complex|torator
+2025-02-14 21:54:14,339 - Sent response: Can form a palindrome: True
+Complexity score: 1 (number of swaps)
+
+2025-02-14 21:54:21,435 - Received request: complex|nasas
+2025-02-14 21:54:21,436 - Sent response: Can form a palindrome: True
+Complexity score: 1 (number of swaps)
+
+2025-02-14 21:54:27,173 - Received request: complex|neovim
+2025-02-14 21:54:27,175 - Sent response: Can form a palindrome: False
+Complexity score: 0 (number of swaps)
+
+2025-02-14 21:54:37,351 - Received request: complex|vim
+2025-02-14 21:54:37,353 - Sent response: Can form a palindrome: False
+Complexity score: 0 (number of swaps)
+
+2025-02-14 21:54:49,551 - Received request: complex|a man a plan a canal panama
+2025-02-14 21:54:49,553 - Sent response: Can form a palindrome: True
+Complexity score: 0 (number of swaps)
+
+2025-02-14 21:54:51,466 - Connection timed out on localhost:6969
+2025-02-14 21:54:51,466 - Closed connection with ('127.0.0.1', 35398)
+2025-02-14 21:55:00,343 - Closed connection with ('127.0.0.1', 35404)
+2025-02-14 21:55:03,088 - Beginning shutdown process for localhost:6969...
+2025-02-14 21:55:03,090 - Shutdown process for localhost:6969 has been completed cleanly.

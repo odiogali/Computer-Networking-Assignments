@@ -1,0 +1,14 @@
+2025-03-20 18:04:39,950 - Listening on 127.0.0.1:6969...
+2025-03-20 18:04:45,393 - Connection received from: ('127.0.0.1', 47280)
+2025-03-20 18:04:48,092 - ('127.0.0.1', 47280) has selected the name dexter.
+2025-03-20 18:04:50,578 - Connection received from: ('127.0.0.1', 37556)
+2025-03-20 18:04:53,671 - ('127.0.0.1', 37556) has selected the name rita.
+2025-03-20 18:04:59,119 - Connection received from: ('127.0.0.1', 42354)
+2025-03-20 18:05:03,429 - ('127.0.0.1', 42354) has selected the name debra.
+2025-03-20 18:05:49,580 - Connection received from: ('127.0.0.1', 59718)
+2025-03-20 18:05:52,357 - ('127.0.0.1', 59718) has selected the name rita2.
+2025-03-20 18:06:26,853 - Connection received from: ('127.0.0.1', 40612)
+2025-03-20 18:06:28,373 - ('127.0.0.1', 40612) has selected the name rita.
+2025-03-20 18:06:51,418 - Closed connection with dexter.
+2025-03-20 18:06:51,420 - Closed connection with debra.
+2025-03-20 18:06:51,420 - Server socket closed successfully.
